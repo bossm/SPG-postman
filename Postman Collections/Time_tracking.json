@@ -26827,7 +26827,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://tools-stage.specific-group.eu/time-tracking/api/issues/approver?from=2024-06-25T00:00:00Z&to=2024-06-26T00:00:00Z",
+					"raw": "https://tools-stage.specific-group.eu/time-tracking/api/issues/approver?from=2024-06-25T00:00:00Z&to=2024-06-26T00:00:00Z1",
 					"protocol": "https",
 					"host": [
 						"tools-stage",
@@ -26847,7 +26847,7 @@
 						},
 						{
 							"key": "to",
-							"value": "2024-06-26T00:00:00Z"
+							"value": "2024-06-26T00:00:00Z1"
 						}
 					]
 				}
